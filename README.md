@@ -1,5 +1,9 @@
 <h1 align="center"> Hello wỏld👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=k4izokage&label=Profile+views&color=blue&style=flat" alt="Profile views" />
+</p>
+
 <h3>🌱 About me</h3>
 
 - 👾 I'm Kaizokage ([Kaizoku](https://en.wikipedia.org/wiki/One_Piece) 🏴‍☠️ + [Hokage](https://en.wikipedia.org/wiki/Naruto) 🥷)
