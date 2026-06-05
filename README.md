@@ -30,7 +30,7 @@ npx k4izokage
 ```
 - Or use a carrier pigeon 🕊️ to send a message 💌 to me
 ```
--.- .- .. --.. --- -.- .- --. . .--.-. -.. ..- -.-. -.- .-.-.- -.-. --- --
+-.- ....- .. --.. --- -.- .- --. . .--.-. .--. .-. --- - --- -. -- .- .. .-.. .-.-.- -.-. --- --
 ```
 
 <h3>⚠️ If you know, you know</h3>
@@ -38,4 +38,4 @@ npx k4izokage
 - 👨‍💻 *Programmer is just a tool which transforms* ☕ *caffeine to code*
 - 🤩 *Your donations are gratefully accepted*
   
-     <a href="https://www.buymeacoffee.com/k4izokage"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32"></a>
+     <a href='https://ko-fi.com/k4izokage' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
